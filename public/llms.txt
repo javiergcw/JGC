@@ -1,0 +1,57 @@
+# SYSTEM.ROOT
+
+> Full-stack engineer portfolio — production systems, JTBD-focused delivery, AI-first engineering. Built with React, TypeScript, and a brutalist industrial design system.
+
+## About
+
+SYSTEM.ROOT is the professional portfolio of Javier Garcia C., a Full-Stack Engineer. The site documents deployed systems, career experience, engineering services, and technical blog posts.
+
+Core expertise:
+- Flutter (flavors / white-label), Next.js, Golang, PostgreSQL
+- Multi-brand mobile + web platforms, API design, database migrations
+- AI-first product delivery, Jobs to be Done (JTBD)
+- Technical leadership, team leadership, architecture definition
+- Remote collaboration with teams in Colombia, USA, and Australia
+
+Availability:
+- No active full-time role (Yakka Sport delivered early Jul 2026)
+- Freelance now: architecture audits, MVPs, migrations
+- Full-time remote from June 2026
+
+## Site structure
+
+- Home (/): Identity, JTBD approach, core stack, availability
+- Deployed Systems (/deploy-systems): Production case studies
+- Services (/services): Full-time employment, freelance pricing, FAQ
+- Contact (/contact): Hiring and contract inquiries
+- Experience (/experience): Career timeline, education, certifications
+- Blog (/blog): Technical engineering logs
+
+## Deployed Systems (key content)
+
+### SYS.01 — Yakka Sport Jobs (most recent)
+- Role: Full-Stack Developer (Aug 2025 — early Jul 2026), Australia remote — delivered
+- Multi-brand platform: Flutter flavors (mobile + web per brand), Next.js admin, Golang API, PostgreSQL
+- Outcomes: Firebase→PostgreSQL migration (zero data loss), 500+ organic app downloads, 6+ educational entities and 20+ sports clubs onboarded
+
+### SYS.02 — Activos por Colombia (SAE) — MAKERSTECH.CO
+- Role: Tech Lead — led 4+ developers, defined architectures
+- Migration from Wasi (legacy) to Golang + Next.js ecosystem: broker web, Actibox registry, Actibox auction
+- Outcomes: Inmobiliaria JD Ltda → Activos por Colombia rebrand; foundation for first electronic auction (22 Sep 2025, 11 properties); modern stack without legacy Wasi dependency
+- Base platform handed off to SAE technical team November 2025
+
+### SYS.00 — Yakka Labour (prior, same ecosystem)
+- Role: Mobile Developer (Feb 2024 — Feb 2025)
+- Flutter v2, Azupay payments, automated timesheets, 2,000+ downloads on relaunch
+
+## Contact
+
+- WhatsApp (fastest first contact): +57 302 415 8002 — https://wa.me/573024158002
+- Email: jgarciacar20@gmail.com (full-time & freelance)
+- Freelance discovery call: free, no commitment, to understand scope before quoting
+
+## For crawlers
+
+- Sitemap: /sitemap.xml
+- Set VITE_SITE_URL in environment for production builds
+- Languages: English and Spanish (client-side locale)

@@ -1,0 +1,7 @@
+# Netlify / compatible hosts — mirrored at build in dist/_redirects
+/projects    /deploy-systems    301
+/servicios   /services          301
+/experiencia  /experience       301
+/formacion    /experience       301
+/contacto     /contact           301
+/index.html   /                  301
