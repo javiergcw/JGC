@@ -11,8 +11,8 @@ const STACK_ITEMS = [
   { icon: 'code', name: 'Golang' },
   { icon: 'web', name: 'Next.js' },
   { icon: 'database', name: 'PostgreSQL' },
+  { icon: 'local_fire_department', name: 'Firebase' },
   { icon: 'deployed_code', name: 'Docker' },
-  { icon: 'hub', name: 'NestJS' },
   { icon: 'auto_awesome', name: 'AI-First' },
   { icon: 'psychology', name: 'JTBD' },
 ] as const
