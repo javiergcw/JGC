@@ -8,9 +8,9 @@ Soy ingeniero full-stack enfocado en llevar sistemas a producción—móvil, web
 
 ## Sobre mí
 
-- 🔭 **Ahora mismo:** [SYSTEM.ROOT](https://jgc-gamma.vercel.app/) — portfolio y casos de estudio (Yakka, SAE, Yakka Labour); abierto a auditorías freelance, MVPs y migraciones; full-time remoto desde **jun 2026**
-- 🌱 **Aprendiendo:** Patrones avanzados de sistemas distribuidos, entrega de producto asistida por IA y operabilidad a escala
-- 👯 **Herramientas favoritas:** Flutter, Golang, Next.js, PostgreSQL, Firebase, Docker, marco JTBD y flujos AI-first
+- 💼 **Ahora mismo:** [SYSTEM.ROOT](https://jgc-gamma.vercel.app/) — portfolio y casos de estudio (Yakka, SAE, Yakka Labour); abierto a auditorías freelance, MVPs y migraciones; full-time remoto desde **jun 2026**
+- 📚 **Aprendiendo:** Patrones avanzados de sistemas distribuidos, entrega de producto asistida por IA y operabilidad a escala
+- 🛠️ **Herramientas favoritas:** Flutter, Golang, Next.js, PostgreSQL, Firebase, Docker, marco JTBD y flujos AI-first
 - 🎯 **Objetivo:** Software mantenible con arquitectura clara—entregas en producción, migraciones limpias y soluciones que el equipo pueda sostener a largo plazo
 
 ---
