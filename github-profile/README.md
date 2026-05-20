@@ -104,9 +104,11 @@ Full timeline and case studies → [jgc-gamma.vercel.app](https://jgc-gamma.verc
 
 ---
 
-## Fun Fact
+## Beyond code
 
-When I'm not in production code, I'm usually thinking in **JTBD** terms—even for side projects: what's the real job, who owns the outcome, and what would break first in production? Clean boundaries (hexagonal Go, Clean Architecture + BLoC on Flutter) help keep that honest.
+I'm as interested in the **people** behind tech as in the stack. I like sitting at startup and tech hubs, meeting folks in the scene, and hearing how they actually built things—not just the polished version on LinkedIn.
+
+Off the laptop: **basketball** whenever there's a court, entrepreneurship podcasts like [**Spicy4Tuna**](https://www.spicy4tuna.com/) and [**Búscate la vida**](https://open.spotify.com/show/1jobS8JPQwN1lYg2g8cn9k) (José Elías & Eric Ponce), and a playlist that lives on [**Mac Miller**](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [**Delaossa**](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) 🇪🇸, and [**Motherflowers**](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) 🇻🇪.
 
 ---
 

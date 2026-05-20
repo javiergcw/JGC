@@ -144,9 +144,11 @@ Timeline y casos completos → [jgc-gamma.vercel.app](https://jgc-gamma.vercel.a
 
 ---
 
-## Dato curioso
+## Fuera del código
 
-Cuando no estoy en código de producción, suelo pensar en términos **JTBD**—incluso en proyectos personales: cuál es el trabajo real, quién es dueño del resultado y qué se rompería primero en producción. Límites claros (hexagonal en Go, Clean Architecture + BLoC en Flutter) ayudan a mantener eso honesto.
+Me interesan tanto las **personas** detrás de la tech como el stack. Me gusta sentarme en hubs y espacios de startups, conocer gente del mundillo y escuchar sus experiencias de verdad—no solo la versión pulida de LinkedIn.
+
+Fuera del portátil: **básquet** cuando hay cancha, podcasts de emprendimiento como [**Spicy4Tuna**](https://www.spicy4tuna.com/) y [**Búscate la vida**](https://open.spotify.com/show/1jobS8JPQwN1lYg2g8cn9k) (José Elías y Eric Ponce), y una playlist que vive entre [**Mac Miller**](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [**Delaossa**](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) 🇪🇸 y [**Motherflowers**](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) 🇻🇪.
 
 ---
 
